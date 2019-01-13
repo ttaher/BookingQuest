@@ -5,7 +5,7 @@ using System.Text;
 namespace BookingQuest
 {
     public static class Triangles
-    {
+    { 
         public static int TriangleTypeCalc(int a, int b, int c)
         {
             int result = 0;
